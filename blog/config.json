@@ -1,8 +1,8 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
+    "name": "Koen Metsu's blog",
+    "owner": "Koen Metsu",
     "description": "Ramblings of an immor(t)al demigod"
   },
   "plugins": [
