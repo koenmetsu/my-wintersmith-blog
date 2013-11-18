@@ -1,10 +1,11 @@
 {
   "locals": {
-    "url": "http://localhost:8080",
+    "url": "http://cavaleiro.dyndns.org/blog",
     "name": "Koen Metsu's blog",
     "owner": "Koen Metsu",
     "description": "Ramblings of an immor(t)al demigod"
   },
+  "baseUrl": "/blog/",
   "plugins": [
     "./plugins/paginator.coffee"
   ],
