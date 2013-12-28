@@ -1,3 +1,10 @@
+---
+title: "Calculating Routes in .NET: 5 minutes tutorial"
+author: koenmetsu
+date: 2013-01-18 12:00
+template: article.jade
+---
+
 Calculating the 'road distance' between two points can come in handy when you want to calculate the transport costs between your company and your customers.
 
 Google Maps is great for calculating a single route, but when you want things automated, you need some kind of web service for this, which Google doesn't provide.

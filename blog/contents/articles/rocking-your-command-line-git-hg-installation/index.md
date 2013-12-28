@@ -1,5 +1,5 @@
 ---
-title: "Rocking your command lie: Git & Hg installation "
+title: "Rocking your command line: Git & Hg installation "
 author: koenmetsu
 date: 2012-09-10 12:00
 template: article.jade

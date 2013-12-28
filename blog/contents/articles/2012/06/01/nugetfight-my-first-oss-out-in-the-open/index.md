@@ -1,3 +1,10 @@
+---
+title: "NuGetFight: my first OSS out in the open"
+author: koenmetsu
+date: 2013-06-01 12:00
+template: article.jade
+---
+
 The past couple of weeks [Kevin Pelgrims](http://www.kevinpelgrims.com/blog) and I teamed up to create [NuGetFight](http://www.nugetfight.com), a website that enables you to easily compare NuGet packages based on their usage stats. 
 
 As part of improving my coding skills, I lot of the time I spend is in reading blogs and articles. However, only reading up on technology will only take you so far. Trying out some new technologies like NoSQL or SignalR is fun as well, but usually doesn't go any further than a few small POCs. It hardly covers all the aspects of software development we "meet" in real life.

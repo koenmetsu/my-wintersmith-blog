@@ -1,3 +1,10 @@
+---
+title: "STM.NET and .NET Framework 4.0 beta 2 ( Error 1603: A fatal error occurred. )"
+author: koenmetsu
+date: 2009-11-18 12:00
+template: article.jade
+---
+
 Recently I ran into some problems installing the latest Visual Studio 2010 beta 2. It gave me the very clear error message:
 
 "Error 1603: A fatal error occurred."

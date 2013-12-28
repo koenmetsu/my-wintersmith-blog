@@ -1,3 +1,10 @@
+---
+title: Moving from WordPress to FunnelWeb
+author: koenmetsu
+date: 2013-03-01 12:00
+template: article.jade
+---
+
 The problem
 ===
 Begin this year, I decided to pick up blogging again. I had some good ideas to blog about (most of which I probably forgot already), but one thing kept me from doing so: <b>WordPress</b>. 

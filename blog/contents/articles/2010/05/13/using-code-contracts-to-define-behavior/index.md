@@ -1,3 +1,10 @@
+---
+title: Using Code Contracts to define behavior 
+author: koenmetsu
+date: 2013-05-13 12:00
+template: article.jade
+---
+
 <h2>First: an introduction</h2>
 Code Contracts is a language-agnostic tool that provides you the power of <a title="Design by Contract" href="http://en.wikipedia.org/wiki/Design_by_contract" target="_blank">Design By Contract</a> development. In short, it enables you to make statements about what your code expects and delivers. It's a great way of telling whether or not your code does what <span style="text-decoration:underline;">you</span> expect it to do.
 

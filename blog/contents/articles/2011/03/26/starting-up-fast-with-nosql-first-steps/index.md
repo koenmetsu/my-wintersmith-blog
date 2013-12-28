@@ -1,3 +1,10 @@
+---
+title: "Starting up fast with NoSQL: first steps"
+author: koenmetsu
+date: 2013-03-26 12:00
+template: article.jade
+---
+
 After reading up a bit on NoSQL, I decided it was time for me to do some experimenting and see how quickly I could set up an application using NoSQL. One of the things I like about NoSQL is that it supposedly supports very low-friction development, which I'm going to try and find out soon.
 
 I'm not going to talk about [whether or not NoSQL is right for you](http://stackoverflow.com/q/2875432/367388), [which NoSQL implementation/provider is best](http://blog.nahurst.com/visual-guide-to-nosql-systems) or [whether or not NoSQL is better or worse than SQL](http://stackoverflow.com/q/2571098/367388). I'm just having some fun with it, and seeing how easy this goes. I will focus on [document store databases](http://ayende.com/blog/4459/that-no-sql-thing-document-databases) and C# .NET. 

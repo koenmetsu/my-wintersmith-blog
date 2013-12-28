@@ -1,3 +1,10 @@
+---
+title: "Code Contracts: Is the static checker really that thick?"
+author: koenmetsu
+date: 2010-06-30 12:00
+template: article.jade
+---
+
 When you start working with Code Contracts, you often get the feeling that you have to add contracts everywhere for everything. When you enable the static checker on an existing project, you might get <strong>a lot</strong> of warnings.
 
 <a href="http://koenmetsu.files.wordpress.com/2010/06/code_contracts_warnings2.png"><img class="size-full wp-image-105" title="Static Checker Warnings" src="http://koenmetsu.files.wordpress.com/2010/06/code_contracts_warnings2.png" alt="A lot of these" width="600" height="145" /></a>

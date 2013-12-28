@@ -1,3 +1,10 @@
+---
+title: "New Code Contracts Extension: See Contracts in Intellisense" 
+author: koenmetsu
+date: 2013-09-10 12:00
+template: article.jade
+---
+
 <span style="font-family:Times New Roman;font-size:12pt;">Code Contracts just got a whole lot better with a brand new extension for Visual Studio 2010!
 </span>
 

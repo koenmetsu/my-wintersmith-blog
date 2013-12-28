@@ -1,5 +1,11 @@
+---
+title: "Rocking your command line: Getting started"
+author: koenmetsu
+date: 2012-07-29 12:00
+template: article.jade
+---
 
-se of us coming from version control systems like Team Foundation Server, Subversion or similar systems with a graphical user interface, using the command line with your version control systems might come off as arcane, unintuitive and not very user-friendly. Still, both Mercurial (Hg) and Git were primarily made for use with the command line.
+For those of us coming from version control systems like Team Foundation Server, Subversion or similar systems with a graphical user interface, using the command line with your version control systems might come off as arcane, unintuitive and not very user-friendly. Still, both Mercurial (Hg) and Git were primarily made for use with the command line.
 
 If you're new to distributed version control systems, I'd recommend you to order the free book (even the printed version is free!) by Eric Sink, [Version Control by Example](http://www.ericsink.com/vcbe/). It has a great workflow comparison of Subversion, Mercurial (Hg) and Git and gives you some insights on why you should use a distributed version control system.	
 

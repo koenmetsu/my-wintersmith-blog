@@ -1,4 +1,11 @@
-s stated <a href="http://koenmetsu.wordpress.com/2010/05/13/using-code-contracts-to-define-behavior/">previously</a>, Code Contracts can give you certainty that your classes behave exactly in the way you want them to.
+---
+title: "Code Contracts Static Checker: Best practices & guidelines"
+author: koenmetsu
+date: 2013-11-29 12:00
+template: article.jade
+---
+
+As stated <a href="http://koenmetsu.wordpress.com/2010/05/13/using-code-contracts-to-define-behavior/">previously</a>, Code Contracts can give you certainty that your classes behave exactly in the way you want them to.
 By defining pre- and postconditions on them, you can tell what you expect from a certain class and what others can expect from your classes.
 
 A number of posts and concerns about Code Contracts revolve around the static checker, and how to make it prove that certain contracts are correctly followed.
