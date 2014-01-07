@@ -1,7 +1,7 @@
 ---
 title: "NuGetFight: my first OSS out in the open"
 author: koenmetsu
-date: 2013-06-01 12:00
+date: 2012-06-01 12:00
 template: article.jade
 ---
 

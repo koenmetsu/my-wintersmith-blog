@@ -1,3 +1,9 @@
+---
+title: About me
+author: koenmetsu
+date: 1986-04-09 12:00
+template: article.jade
+---
 I'm Koen Metsu, an all-round developer with a passion for web and mobile development, general coding best practices and ALM. 
 
 #DuckDuckGo

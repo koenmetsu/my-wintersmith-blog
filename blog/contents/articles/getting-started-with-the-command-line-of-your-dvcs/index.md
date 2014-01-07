@@ -1,8 +1,9 @@
 ---
-title: "Rocking your command line: Getting started"
+title: Getting started with the command-line of your dvcs
 author: koenmetsu
 date: 2012-07-29 12:00
 template: article.jade
+filename: /:year/:month/:day/:title/index.html
 ---
 
 For those of us coming from version control systems like Team Foundation Server, Subversion or similar systems with a graphical user interface, using the command line with your version control systems might come off as arcane, unintuitive and not very user-friendly. Still, both Mercurial (Hg) and Git were primarily made for use with the command line.
