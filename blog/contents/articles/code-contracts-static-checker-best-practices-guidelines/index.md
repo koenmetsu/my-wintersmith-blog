@@ -3,6 +3,7 @@ title: "Code Contracts Static Checker: Best practices & guidelines"
 author: koenmetsu
 date: 2010-11-29 12:00
 template: article.jade
+filename: /:year/:month/:day/:title/index.html
 ---
 
 As stated <a href="http://koenmetsu.wordpress.com/2010/05/13/using-code-contracts-to-define-behavior/">previously</a>, Code Contracts can give you certainty that your classes behave exactly in the way you want them to.

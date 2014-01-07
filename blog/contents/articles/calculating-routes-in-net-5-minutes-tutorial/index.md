@@ -3,6 +3,7 @@ title: "Calculating Routes in .NET: 5 minutes tutorial"
 author: koenmetsu
 date: 2010-01-18 12:00
 template: article.jade
+filename: /:year/:month/:day/:title/index.html
 ---
 
 Calculating the 'road distance' between two points can come in handy when you want to calculate the transport costs between your company and your customers.

@@ -3,6 +3,7 @@ title: Using Code Contracts to define behavior
 author: koenmetsu
 date: 2010-05-13 12:00
 template: article.jade
+filename: /:year/:month/:day/:title/index.html
 ---
 
 <h2>First: an introduction</h2>
