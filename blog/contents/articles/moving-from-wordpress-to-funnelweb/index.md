@@ -1,7 +1,7 @@
 ---
 title: Moving from WordPress to FunnelWeb
 author: koenmetsu
-date: 2011-03-01 12:00
+date: 2012-03-01 12:00
 template: article.jade
 filename: /:year/:month/:day/:title/index.html
 ---
