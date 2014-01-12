@@ -1,7 +1,7 @@
 ---
 title: Getting started with the command-line of your dvcs
 author: koenmetsu
-date: 2012-07-29 12:00
+date: 2012-07-30 12:00
 template: article.jade
 filename: /:year/:month/:day/:title/index.html
 ---
