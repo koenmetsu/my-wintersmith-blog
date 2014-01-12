@@ -3,6 +3,6 @@ mixin author(authorName)
   - var author = contents.authors[authorName + '.json']
   span.author
     if author
-      a(href=author.metadata.twitter)= author.metadata.name
+      a(href="/blog/about/")= author.metadata.name
     else
       =authorName
