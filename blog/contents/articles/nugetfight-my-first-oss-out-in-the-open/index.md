@@ -3,6 +3,7 @@ title: "NuGetFight: my first OSS out in the open"
 author: koenmetsu
 date: 2012-06-01 12:00
 template: article.jade
+filename: /:year/:month/:day/:title/index.html
 ---
 
 The past couple of weeks [Kevin Pelgrims](http://www.kevinpelgrims.com/blog) and I teamed up to create [NuGetFight](http://www.nugetfight.com), a website that enables you to easily compare NuGet packages based on their usage stats. 
