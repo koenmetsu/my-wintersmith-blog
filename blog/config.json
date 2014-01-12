@@ -3,8 +3,9 @@
     "url": "http://cavaleiro.dyndns.org/blog",
     "name": "Koen Metsu's blog",
     "owner": "Koen Metsu",
-    "description": "Ramblings of an immor(t)al demigod"
+    "description": "is currently migrating"
   },
+  "filenameTemplate": "/:title/index.html",
   "baseUrl": "/blog/",
   "plugins": [
     "./plugins/paginator.coffee"
@@ -22,6 +23,6 @@
     "smartypants": true
   },
   "paginator": {
-    "perPage": 3
+    "perPage": 30
   }
 }
