@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About
 author: koenmetsu
 date: 1986-04-09 12:00
 template: article.jade
