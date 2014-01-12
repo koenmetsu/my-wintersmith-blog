@@ -1,7 +1,7 @@
 ---
 title: "Starting up fast with NoSQL: first steps"
 author: koenmetsu
-date: 2011-03-26 12:00
+date: 2012-03-26 12:00
 template: article.jade
 filename: /:year/:month/:day/:title/index.html
 ---
