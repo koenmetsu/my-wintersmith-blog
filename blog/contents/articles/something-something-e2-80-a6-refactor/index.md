@@ -3,7 +3,7 @@ title: Something, something, … Refactor!
 author: koenmetsu
 date: 2011-02-15 12:00
 template: article.jade
-filename: /:year/:month/:day/:title/index.html
+filename: /:year/:month/:day/something-something-e2-80-a6-refactor/index.html
 ---
 
 Many of us developers leave for work on a daily basis, ready to throw ourselves onto the next change request that will change the world as we know it, only to find yourself hack ‘n’ slashing through <a href="http://thedailywtf.com/">a jungle of WTF’s</a>, <a href="http://en.wikipedia.org/wiki/Copy_and_paste_programming">copy-paste inheritance</a>, <a href="http://stackoverflow.com/questions/143701/what-is-the-worst-class-variable-function-name-you-have-ever-encountered">awfully named fields</a>, and <a href="http://www.osnews.com/story/19266/WTFs_m">more WTF’s</a>.
